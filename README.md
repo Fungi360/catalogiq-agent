@@ -1,6 +1,8 @@
 # Vendor Catalog Comparison Agent
 
-This project implements the Team 9 Milestone 1 use case: helping small commercial buyers compare products from multiple vendor catalogs on price, quality, and material composition.
+An AI-powered catalog intelligence agent that retrieves, compares, and ranks products across multiple sources using company-specific knowledge, pricing, specifications, and quality criteria.
+
+This project currently implements the Team 9 Milestone 1 use case: helping small commercial buyers compare products from multiple vendor catalogs on price, quality, and material composition.
 
 ## Requirements
 
